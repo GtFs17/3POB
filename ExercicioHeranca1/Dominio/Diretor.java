@@ -1,4 +1,4 @@
-package Exercicio.Dominio;
+package ExercicioHeranca1.Dominio;
 
 public class Diretor extends Funcionario{
     private double bonificacao;

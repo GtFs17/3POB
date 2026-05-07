@@ -1,4 +1,4 @@
-package Exercicio.Dominio;
+package ExercicioHeranca1.Dominio;
 
 public class Vendedor extends Funcionario{
     private double comissao;

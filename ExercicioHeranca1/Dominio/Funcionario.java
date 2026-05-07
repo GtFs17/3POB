@@ -1,4 +1,4 @@
-package Exercicio.Dominio;
+package ExercicioHeranca1.Dominio;
 
 public class Funcionario{
     private String cpf;
